@@ -1,0 +1,1 @@
+arduino-cli upload -p /dev/ttyACM1 --fqbn arduino:avr:uno sketch
